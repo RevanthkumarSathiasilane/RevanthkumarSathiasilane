@@ -70,10 +70,4 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RevanthkumarSathiasilaneE&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
 🚀 **Small progress every day leads to big results.**
