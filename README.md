@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🏫 Pre-Final Year CSE Student @ **Sri Manakula Vinayagar Engineering College**  
-- 📍  Pondicherry, India
+- 📍   Pondicherry, India
 - ⚙️ Building backend systems with **Spring Boot**  
 - 🤖 Interested in **AI integrations with backend systems**  
 - ⚙️ Exploring **Microservices Architecture**
