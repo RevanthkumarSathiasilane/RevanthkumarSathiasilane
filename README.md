@@ -36,13 +36,11 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=RevanthkumarSathiasilane&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RevanthkumarSathiasilane&theme=tokyonight" />
 </p>
-
----
 
 # 📊 Contribution Graph
 
