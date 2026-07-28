@@ -32,7 +32,7 @@
 
 |  Frontend |  Backend |  Frameworks |  Databases |  IDETools |
 |:-----------:|:----------:|:-------------:|:------------:|:------------:|
-| <img src="https://skillicons.dev/icons?i=react"/> | <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=spring" />| <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=github,vscode,idea,pycharm" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react"/> | <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=spring" />| <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=github,vscode,idea,pycharm" /> |
 
 ---
 
